@@ -8,7 +8,7 @@ public class StringDemo {
 }
 */
        /* String palindrome = "Dot saw I was Tod";
-        int len = palindrome.length();
+        int len = palindrome.length();//返回字符数
         System.out.println("String length is :" + len);
     }
     }
